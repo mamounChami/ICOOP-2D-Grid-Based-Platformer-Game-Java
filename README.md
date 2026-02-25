@@ -67,5 +67,5 @@ mvn exec:java -pl iccoop -Dexec.mainClass="ch.epfl.cs107.Play"
 
 ## Authors
 
-Mamoun Chami
+Mamoun Chami, 
 Wejdane Mansouri
