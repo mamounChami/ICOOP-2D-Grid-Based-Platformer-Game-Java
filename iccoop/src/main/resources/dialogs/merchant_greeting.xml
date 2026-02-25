@@ -1,0 +1,6 @@
+<strings id="welcome">
+    <string name="game_name">Bonjour, les enfants ! Besoin de quelque chose ?</string>
+    <string name="game_name">Si vous me donnez une pièce je vous l'échangerai contre une bombe !</string>
+    <string name="game_name">Venez simplement me voir en me faisant face.</string>
+    <string name="game_name">Et appuyez sur Y pour le joueur rouge et H pour le joueur bleu pour accepter.</string>
+</strings>

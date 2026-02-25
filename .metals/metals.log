@@ -1,0 +1,26 @@
+2026.02.25 12:02:30 INFO  Started: Metals version 1.6.5 in folders 'C:\CS107series\MP2-IcoopGame-2024\MP2-2024' for client Visual Studio Code 1.109.4.
+2026.02.25 12:02:30 INFO  Memory monitor started
+2026.02.25 12:02:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.25 12:02:32 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:32 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:38 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:52 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:52 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:52 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:52 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+févr. 25, 2026 12:02:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10
+févr. 25, 2026 12:02:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 11
+févr. 25, 2026 12:02:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12
+2026.02.25 12:02:53 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:02:59 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:03:05 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+2026.02.25 12:03:05 INFO  no build target found for C:\CS107series\MP2-IcoopGame-2024\MP2-2024\iccoop\src\main\java\ch\epfl\cs107\Play.java. Using fallback presentation compiler.
+févr. 25, 2026 12:03:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.02.25 12:06:42 INFO  Shutting down server
+2026.02.25 12:06:42 INFO  Memory monitor stopped
+2026.02.25 12:06:42 INFO  shutting down Metals
+2026.02.25 12:06:42 INFO  Exiting server
